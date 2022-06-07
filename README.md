@@ -21,7 +21,7 @@ Figure 1. time-series can also be reproduced by specifying, *a minimum resolutio
 
 along with the parameters and *minimal seed* (currently not provided) specified therin, and running the script and plotting the data as above. 
 
-Typically this execution demands a compute cluster or large workstation. Reference using 32 cores, with a Modified Crank-Nicolson Adams-basforth integration is
+Typically this execution demands a compute cluster or large workstation. Reference using 32 cores, with a Modified Crank-Nicolson Adams-Bashforth integration is
 
 ```
 2 AMD Epyc 7302 @ 3 GHz – 2*16 cores processors          - 180 cpu-hr - N_ITERS = 2*((Pm*Re)/dt)
